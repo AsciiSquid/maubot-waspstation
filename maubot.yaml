@@ -4,6 +4,6 @@ version: 0.1.0
 license: MIT
 main_class: WaspBot
 modules:
-- wasp.py
+- wasp
 extra_files:
 - base-config.yaml
