@@ -1,0 +1,9 @@
+maubot: 0.1.0
+id: space.boomerstation.wasp
+version: 0.1.0
+license: MIT
+main_class: WaspBot
+modules:
+- wasp.py
+extra_files:
+- base-config.yaml
